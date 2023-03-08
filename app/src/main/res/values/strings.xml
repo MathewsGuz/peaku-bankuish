@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAppBankuish</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="network_error">Sorry we are unable to contact server</string>
+    <string name="request_error">Ups something gone wrong…</string>
+    <string name="success_call">Your data is being loaded</string>
+</resources>
